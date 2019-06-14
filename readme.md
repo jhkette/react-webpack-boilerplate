@@ -7,7 +7,7 @@ A boilerplate react project with a personalised webpack setup.
 Clone and then npm install.
 
 
-npm start - creates webpack server with hot reoloading
+npm start - runs webpack server 
 
 npm run build - creates 'dist' build folder 
 
