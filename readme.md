@@ -1,8 +1,8 @@
-#React-webpack boilerplate
+# React-webpack boilerplate
 
 A boilerplate react project with a personalised webpack setup. 
 
-##install 
+## install 
 
 Clone and then npm install.
 
