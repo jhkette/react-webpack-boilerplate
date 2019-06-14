@@ -2,10 +2,11 @@
 
 A boilerplate react project with a personalised webpack setup. 
 
-## install 
+## Install 
 
 Clone and then npm install.
 
+## Usage
 
 npm start - runs webpack server 
 
